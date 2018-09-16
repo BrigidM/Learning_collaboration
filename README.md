@@ -8,6 +8,7 @@ These are some of the topics I want to cover
 * workflow between local repo, repo on personal GitHub account, repo on other person's GitHub account
 * how to keep in sync with the main project repo
 * how to use GitHub with Rstudio
+* what is a conflict and how to deal with it
 
 So far I think that I am getting the idea of a workflow like this
 Login to your own GitHub account
