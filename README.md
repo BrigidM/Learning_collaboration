@@ -23,7 +23,7 @@ Clone a copy of your forked repo to your local directory
 
 make a new fork for changes you want to make i.e. fix bug1 
 * git checkout -b fix_bug1
-* git fetch origin/master  # this is to stay upto date with any changes that have been made to GitHub repository on your account
+* git fetch origin master  # this is to stay upto date with any changes that have been made to GitHub repository on your account
 
 then you  work on whatever changes you want to make in the repro
 
